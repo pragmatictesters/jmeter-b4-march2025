@@ -1,0 +1,20 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+/.idea/
+
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### JMeter installation ###
+/apache-jmeter-5.6.3/
+
+###Logs ###
+/logs/
