@@ -21,3 +21,4 @@ target/
 
 ### Temporary folder ###
 /temp/
+/test-result/
